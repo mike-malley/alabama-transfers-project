@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Alabama Transfers Project
+
+This is the project repository for the development and documentation of the Alabama Transfers Project.
+
+## About GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mike-malley/alabama-transfers-project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
