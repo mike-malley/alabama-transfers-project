@@ -1,4 +1,4 @@
-## Alabama Transfers Project
+# Alabama Transfers Project
 
 This is the project repository for the development and documentation of the Alabama Transfers Project.
 
